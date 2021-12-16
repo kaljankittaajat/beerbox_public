@@ -1,0 +1,7 @@
+sysctl_15xx.h:185:20:Chip_SYSCTL_PeriphReset	16	static
+sct_15xx.h:423:20:Chip_SCT_SetControl	16	static
+sct_15xx.h:434:20:Chip_SCT_ClearControl	16	static
+sct_15xx.c:51:6:Chip_SCT_Init	24	static
+sct_15xx.c:60:6:Chip_SCT_DeInit	24	static
+sct_15xx.c:68:6:Chip_SCT_SetClrControl	24	static
+sct_15xx.c:79:6:Chip_SCT_SetConflictResolution	24	static

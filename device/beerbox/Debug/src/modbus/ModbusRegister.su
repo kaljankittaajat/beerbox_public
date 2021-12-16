@@ -1,0 +1,5 @@
+ModbusRegister.cpp:10:1:ModbusRegister::ModbusRegister(ModbusMaster*, int)	24	static
+ModbusRegister.cpp:15:1:ModbusRegister::~ModbusRegister()	16	static
+ModbusRegister.cpp:15:1:virtual ModbusRegister::~ModbusRegister()	16	static
+ModbusRegister.cpp:19:1:ModbusRegister::operator int()	24	static
+ModbusRegister.cpp:28:23:const ModbusRegister& ModbusRegister::operator=(int)	16	static

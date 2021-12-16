@@ -1,0 +1,10 @@
+core_cm3.h:1405:22:void NVIC_SetPriority(IRQn_Type, uint32_t)	16	static
+core_cm3.h:1532:26:uint32_t SysTick_Config(uint32_t)	16	static
+swm_15xx.h:232:20:void Chip_SWM_MovablePortPinAssign(CHIP_SWM_PIN_MOVABLE_T, uint8_t, uint8_t)	16	static
+socket_mqtt.cpp:43:6:void SysTick_Handler()	4	static
+socket_mqtt.cpp:49:10:uint32_t get_ticks()	4	static
+socket_mqtt.cpp:58:6:void Sleep(int)	16	static
+socket_mqtt.cpp:67:10:uint32_t millis()	4	static
+socket_mqtt.cpp:78:5:int main()	8	static
+socket_mqtt.cpp:150:6:void messageArrived(MessageData*)	24	static
+socket_mqtt.cpp:156:6:void mqttTest()	3176	static

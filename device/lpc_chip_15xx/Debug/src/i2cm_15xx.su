@@ -1,0 +1,14 @@
+i2c_common_15xx.h:255:24:Chip_I2C_GetClockDiv	16	static
+i2cm_15xx.h:101:20:Chip_I2CM_SetDutyCycle	16	static
+i2cm_15xx.h:148:24:Chip_I2CM_GetStatus	16	static
+i2cm_15xx.h:160:20:Chip_I2CM_ClearStatus	16	static
+i2cm_15xx.h:172:20:Chip_I2CM_IsMasterPending	16	static
+i2cm_15xx.h:184:24:Chip_I2CM_GetMasterState	16	static
+i2cm_15xx.h:197:20:Chip_I2CM_SendStart	16	static
+i2cm_15xx.h:210:20:Chip_I2CM_SendStop	16	static
+i2cm_15xx.h:223:20:Chip_I2CM_MasterContinue	16	static
+i2cm_15xx.h:237:20:Chip_I2CM_WriteByte	16	static
+i2cm_15xx.c:51:6:Chip_I2CM_SetBusSpeed	32	static
+i2cm_15xx.c:58:10:Chip_I2CM_XferHandler	24	static
+i2cm_15xx.c:152:6:Chip_I2CM_Xfer	16	static
+i2cm_15xx.c:166:10:Chip_I2CM_XferBlocking	24	static

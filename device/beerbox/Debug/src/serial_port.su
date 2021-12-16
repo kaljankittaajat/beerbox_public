@@ -1,0 +1,5 @@
+serial_port.cpp:16:6:void serial_init(void*)	96	static
+serial_port.cpp:27:6:void serial_write_buf(void*, const char*, int)	24	static
+serial_port.cpp:32:6:void serial_write_str(void*, const char*)	16	static
+serial_port.cpp:37:5:int serial_get_char(void*, char*)	16	static
+serial_port.cpp:42:5:int serial_peek(void*)	16	static

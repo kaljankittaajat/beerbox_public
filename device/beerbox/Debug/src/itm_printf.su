@@ -1,0 +1,2 @@
+itm_printf.c:73:6:itm_write	24	static
+itm_printf.c:95:6:itm_printf	80	static

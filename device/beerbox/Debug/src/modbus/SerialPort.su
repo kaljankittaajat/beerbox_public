@@ -1,0 +1,9 @@
+SerialPort.cpp:11:1:SerialPort::SerialPort()	104	static
+SerialPort.cpp:20:1:SerialPort::~SerialPort()	16	static
+SerialPort.cpp:20:1:virtual SerialPort::~SerialPort()	16	static
+SerialPort.cpp:25:5:int SerialPort::available()	16	static
+SerialPort.cpp:29:6:void SerialPort::begin(int)	16	static
+SerialPort.cpp:34:5:int SerialPort::read()	24	static
+SerialPort.cpp:39:5:int SerialPort::write(const char*, int)	24	static
+SerialPort.cpp:43:5:int SerialPort::print(int, int)	24	static
+SerialPort.cpp:50:6:void SerialPort::flush()	16	static

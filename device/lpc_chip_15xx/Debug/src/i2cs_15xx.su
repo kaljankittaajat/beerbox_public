@@ -1,0 +1,10 @@
+i2c_common_15xx.h:300:24:Chip_I2C_GetPendingInt	16	static
+i2cs_15xx.h:142:20:Chip_I2CS_ClearStatus	16	static
+i2cs_15xx.h:187:24:Chip_I2CS_GetSlaveState	16	static
+i2cs_15xx.h:197:24:Chip_I2CS_GetSlaveMatchIndex	16	static
+i2cs_15xx.h:210:20:Chip_I2CS_SlaveContinue	16	static
+i2cs_15xx.h:221:20:Chip_I2CS_SlaveNACK	16	static
+i2cs_15xx.h:235:20:Chip_I2CS_WriteByte	16	static
+i2cs_15xx.h:247:23:Chip_I2CS_ReadByte	16	static
+i2cs_15xx.h:272:23:Chip_I2CS_GetSlaveAddr	16	static
+i2cs_15xx.c:51:10:Chip_I2CS_XferHandler	32	static

@@ -1,0 +1,7 @@
+sysctl_15xx.h:185:20:Chip_SYSCTL_PeriphReset	16	static
+clock_15xx.h:194:20:Chip_Clock_SetUSBClockSource	16	static
+clock_15xx.h:328:20:Chip_Clock_SetUSBPLLSource	16	static
+clock_15xx.h:340:20:Chip_Clock_SetupUSBPLL	16	static
+clock_15xx.h:349:20:Chip_Clock_IsUSBPLLLocked	4	static
+chip_15xx.c:55:6:SystemCoreClockUpdate	8	static
+chip_15xx.c:61:6:Chip_USB_Init	8	static

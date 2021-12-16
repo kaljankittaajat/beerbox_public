@@ -1,0 +1,5 @@
+dma_15xx.h:296:24:Chip_DMA_GetActiveChannels	16	static
+dma_15xx.c:71:6:Chip_DMA_SetTranBits	32	static
+dma_15xx.c:83:6:Chip_DMA_ClearTranBits	32	static
+dma_15xx.c:95:6:Chip_DMA_SetupChannelTransferSize	24	static
+dma_15xx.c:102:6:Chip_DMA_SetupTranChannel	40	static

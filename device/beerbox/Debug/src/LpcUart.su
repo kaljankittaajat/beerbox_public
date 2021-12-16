@@ -1,0 +1,28 @@
+core_cm3.h:1323:22:void NVIC_EnableIRQ(IRQn_Type)	16	static
+core_cm3.h:1335:22:void NVIC_DisableIRQ(IRQn_Type)	16	static
+iocon_15xx.h:95:20:void Chip_IOCON_PinMuxSet(LPC_IOCON_T*, uint8_t, uint8_t, uint32_t)	24	static
+swm_15xx.h:232:20:void Chip_SWM_MovablePortPinAssign(CHIP_SWM_PIN_MOVABLE_T, uint8_t, uint8_t)	16	static
+ring_buffer.h:103:19:int RingBuffer_GetCount(RINGBUFF_T*)	16	static
+uart_15xx.h:127:20:void Chip_UART_Enable(LPC_USART_T*)	16	static
+uart_15xx.h:147:20:void Chip_UART_TXEnable(LPC_USART_T*)	16	static
+uart_15xx.h:197:20:void Chip_UART_IntEnable(LPC_USART_T*, uint32_t)	16	static
+uart_15xx.h:210:20:void Chip_UART_IntDisable(LPC_USART_T*, uint32_t)	16	static
+uart_15xx.h:252:20:void Chip_UART_ConfigData(LPC_USART_T*, uint32_t)	24	static
+LpcUart.cpp:21:6:void UART0_IRQHandler()	8	static
+LpcUart.cpp:30:6:void UART1_IRQHandler()	8	static
+LpcUart.cpp:39:6:void UART2_IRQHandler()	8	static
+LpcUart.cpp:51:6:void LpcUart::isr()	16	static
+LpcUart.cpp:57:1:LpcUart::LpcUart(const LpcUartConfig&)	24	static
+LpcUart.cpp:161:1:LpcUart::~LpcUart()	16	static
+LpcUart.cpp:161:1:virtual LpcUart::~LpcUart()	16	static
+LpcUart.cpp:180:6:int LpcUart::free()	16	static
+LpcUart.cpp:185:6:int LpcUart::peek()	16	static
+LpcUart.cpp:190:6:int LpcUart::read(char&)	16	static
+LpcUart.cpp:195:6:int LpcUart::read(char*, int)	24	static
+LpcUart.cpp:200:5:int LpcUart::write(char)	16	static
+LpcUart.cpp:205:5:int LpcUart::write(const char*)	24	static
+LpcUart.cpp:210:5:int LpcUart::write(const char*, int)	24	static
+LpcUart.cpp:215:6:void LpcUart::txbreak(bool)	16	static
+LpcUart.cpp:220:6:bool LpcUart::rxbreak()	16	static
+LpcUart.cpp:226:6:void LpcUart::speed(int)	16	static
+LpcUart.cpp:231:6:bool LpcUart::txempty()	16	static

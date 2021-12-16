@@ -1,0 +1,3 @@
+romapi_15xx.h:102:20:iap_entry	16	static
+eeprom.c:52:9:Chip_EEPROM_Write	64	static
+eeprom.c:67:9:Chip_EEPROM_Read	64	static

@@ -1,0 +1,14 @@
+iocon_15xx.h:95:20:void Chip_IOCON_PinMuxSet(LPC_IOCON_T*, uint8_t, uint8_t, uint32_t)	24	static
+i2c_common_15xx.h:238:20:void Chip_I2C_SetClockDiv(LPC_I2C_T*, uint32_t)	16	static
+i2cm_15xx.h:126:20:void Chip_I2CM_Enable(LPC_I2C_T*)	16	static
+i2cm_15xx.h:160:20:void Chip_I2CM_ClearStatus(LPC_I2C_T*, uint32_t)	16	static
+i2cm_15xx.h:172:20:bool Chip_I2CM_IsMasterPending(LPC_I2C_T*)	16	static
+i2cm_15xx.h:197:20:void Chip_I2CM_SendStart(LPC_I2C_T*)	16	static
+i2cm_15xx.h:237:20:void Chip_I2CM_WriteByte(LPC_I2C_T*, uint8_t)	16	static
+I2C.cpp:43:1:I2C::I2C(const I2C_config&)	16	static
+I2C.cpp:72:1:I2C::~I2C()	16	static
+I2C.cpp:72:1:virtual I2C::~I2C()	16	static
+I2C.cpp:76:6:bool I2C::write(uint8_t, uint8_t*, uint16_t)	32	static
+I2C.cpp:81:6:bool I2C::read(uint8_t, uint8_t*, uint16_t)	32	static
+I2C.cpp:87:6:bool I2C::transaction(uint8_t, uint8_t*, uint16_t, uint8_t*, uint16_t)	40	static
+I2C.cpp:118:10:static uint32_t I2C::I2CM_XferBlocking(LPC_I2C_T*, I2CM_XFER_T*)	24	static

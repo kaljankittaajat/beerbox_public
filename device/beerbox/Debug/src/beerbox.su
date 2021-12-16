@@ -1,0 +1,15 @@
+core_cm3.h:1405:22:void NVIC_SetPriority(IRQn_Type, uint32_t)	16	static
+core_cm3.h:1532:26:uint32_t SysTick_Config(uint32_t)	16	static
+swm_15xx.h:232:20:void Chip_SWM_MovablePortPinAssign(CHIP_SWM_PIN_MOVABLE_T, uint8_t, uint8_t)	16	static
+I2C.h:18:2:I2C_config::I2C_config()	16	static
+beerbox.cpp:74:6:void SysTick_Handler()	4	static
+beerbox.cpp:79:10:uint32_t get_ticks()	4	static
+beerbox.cpp:87:6:void Sleep(int)	16	static
+beerbox.cpp:94:10:uint32_t millis()	4	static
+beerbox.cpp:100:6:void checkForAlarmWeight(MessageData*)	80	static
+beerbox.cpp:110:6:void messageArrived(MessageData*)	24	static
+beerbox.cpp:118:10:uint16_t readWeightRaw(I2C, uint8_t)	24	static
+I2C.h:21:7:constexpr I2C::I2C(const I2C&)	16	static
+beerbox.cpp:124:10:uint16_t readWeight(I2C, uint8_t, short int)	32	static
+beerbox.cpp:131:6:void tareWeight(I2C)	72	static
+beerbox.cpp:162:5:int main()	4256	static

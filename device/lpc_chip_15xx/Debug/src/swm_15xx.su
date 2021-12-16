@@ -1,0 +1,5 @@
+swm_15xx.c:54:6:Chip_SWM_MovablePinAssign	32	static
+swm_15xx.c:64:6:Chip_SWM_EnableFixedPin	24	static
+swm_15xx.c:76:6:Chip_SWM_DisableFixedPin	24	static
+swm_15xx.c:88:6:Chip_SWM_FixedPinEnable	16	static
+swm_15xx.c:99:6:Chip_SWM_IsFixedPinEnabled	24	static

@@ -1,0 +1,11 @@
+sysctl_15xx.h:185:20:Chip_SYSCTL_PeriphReset	16	static
+gpio_15xx.h:146:20:Chip_GPIO_SetPinDIROutput	16	static
+gpio_15xx.h:158:20:Chip_GPIO_SetPinDIRInput	16	static
+gpio_15xx.h:219:20:Chip_GPIO_SetPortDIROutput	24	static
+gpio_15xx.h:233:20:Chip_GPIO_SetPortDIRInput	24	static
+gpio_15xx.c:51:6:Chip_GPIO_Init	16	static
+gpio_15xx.c:62:6:Chip_GPIO_DeInit	16	static
+gpio_15xx.c:71:6:Chip_GPIO_WriteDirBit	24	static
+gpio_15xx.c:82:6:Chip_GPIO_SetDir	24	static
+gpio_15xx.c:93:6:Chip_GPIO_SetPinDIR	16	static
+gpio_15xx.c:104:6:Chip_GPIO_SetPortDIR	24	static

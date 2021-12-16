@@ -1,0 +1,9 @@
+core_cm3.h:1405:22:void NVIC_SetPriority(IRQn_Type, uint32_t)	16	static
+core_cm3.h:1532:26:uint32_t SysTick_Config(uint32_t)	16	static
+swm_15xx.h:232:20:void Chip_SWM_MovablePortPinAssign(CHIP_SWM_PIN_MOVABLE_T, uint8_t, uint8_t)	16	static
+esp_socket.cpp:38:6:void SysTick_Handler()	4	static
+esp_socket.cpp:44:10:uint32_t get_ticks()	4	static
+esp_socket.cpp:53:6:void Sleep(int)	16	static
+esp_socket.cpp:62:10:uint32_t millis()	4	static
+esp_socket.cpp:132:6:void messageArrived(MessageData*)	24	static
+esp_socket.cpp:138:5:int main()	520	static

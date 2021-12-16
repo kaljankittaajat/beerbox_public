@@ -1,0 +1,2 @@
+retarget_itm.c:78:5:_write	32	static
+retarget_itm.c:146:5:_read	32	static

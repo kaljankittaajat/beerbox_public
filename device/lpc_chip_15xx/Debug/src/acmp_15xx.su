@@ -1,0 +1,10 @@
+sysctl_15xx.h:185:20:Chip_SYSCTL_PeriphReset	16	static
+acmp_15xx.c:48:6:Chip_ACMP_Init	16	static
+acmp_15xx.c:57:6:Chip_ACMP_Deinit	16	static
+acmp_15xx.c:65:6:Chip_ACMP_SetIntEdgeSelection	32	static
+acmp_15xx.c:74:6:Chip_ACMP_SetPosVoltRef	24	static
+acmp_15xx.c:84:6:Chip_ACMP_SetNegVoltRef	24	static
+acmp_15xx.c:94:6:Chip_ACMP_SetHysteresis	24	static
+acmp_15xx.c:103:6:Chip_ACMP_SetupACMPRefs	24	static
+acmp_15xx.c:114:6:Chip_ACMP_SetupACMPInt	24	static
+acmp_15xx.c:136:6:Chip_ACMP_SetupVoltLadder	32	static

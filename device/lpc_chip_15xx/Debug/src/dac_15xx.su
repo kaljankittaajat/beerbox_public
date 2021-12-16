@@ -1,0 +1,2 @@
+dac_15xx.c:51:6:Chip_DAC_Init	16	static
+dac_15xx.c:58:6:Chip_DAC_DeInit	16	static

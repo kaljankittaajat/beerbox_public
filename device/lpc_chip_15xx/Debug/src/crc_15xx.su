@@ -1,0 +1,14 @@
+sysctl_15xx.h:185:20:Chip_SYSCTL_PeriphReset	16	static
+crc_15xx.h:120:20:Chip_CRC_UseCRC16	4	static
+crc_15xx.h:130:20:Chip_CRC_UseCRC32	4	static
+crc_15xx.h:140:20:Chip_CRC_UseCCITT	4	static
+crc_15xx.h:196:20:Chip_CRC_Write8	16	static
+crc_15xx.h:206:20:Chip_CRC_Write16	16	static
+crc_15xx.h:216:20:Chip_CRC_Write32	16	static
+crc_15xx.h:225:24:Chip_CRC_Sum	4	static
+crc_15xx.c:50:6:Chip_CRC_Init	8	static
+crc_15xx.c:57:6:Chip_CRC_Deinit	8	static
+crc_15xx.c:63:6:Chip_CRC_UseDefaultConfig	16	static
+crc_15xx.c:82:10:Chip_CRC_CRC8	16	static
+crc_15xx.c:95:10:Chip_CRC_CRC16	16	static
+crc_15xx.c:108:10:Chip_CRC_CRC32	16	static

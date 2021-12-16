@@ -1,0 +1,2 @@
+wwdt_15xx.c:51:6:Chip_WWDT_Init	16	static
+wwdt_15xx.c:63:6:Chip_WWDT_ClearStatusFlag	16	static

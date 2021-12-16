@@ -1,0 +1,9 @@
+sysctl_15xx.h:185:20:Chip_SYSCTL_PeriphReset	16	static
+clock_15xx.h:328:20:Chip_Clock_SetUSBPLLSource	16	static
+clock_15xx.h:340:20:Chip_Clock_SetupUSBPLL	16	static
+clock_15xx.h:349:20:Chip_Clock_IsUSBPLLLocked	4	static
+clock_15xx.h:500:20:Chip_Clock_SetSysTickClockDiv	16	static
+swm_15xx.h:232:20:Chip_SWM_MovablePortPinAssign	16	static
+board_sysinit.c:126:6:Board_SetupMuxing	16	static
+board_sysinit.c:152:6:Board_SetupClocking	8	static
+board_sysinit.c:175:6:Board_SystemInit	8	static

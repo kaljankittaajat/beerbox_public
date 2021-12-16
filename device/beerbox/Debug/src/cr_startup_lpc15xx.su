@@ -1,0 +1,13 @@
+cr_startup_lpc15xx.cpp:343:6:void data_init(unsigned int, unsigned int, unsigned int)	40	static
+cr_startup_lpc15xx.cpp:352:6:void bss_init(unsigned int, unsigned int)	24	static
+cr_startup_lpc15xx.cpp:379:1:void ResetISR()	32	static
+cr_startup_lpc15xx.cpp:445:6:void NMI_Handler()	4	static
+cr_startup_lpc15xx.cpp:450:6:void HardFault_Handler()	4	static
+cr_startup_lpc15xx.cpp:455:6:void MemManage_Handler()	4	static
+cr_startup_lpc15xx.cpp:460:6:void BusFault_Handler()	4	static
+cr_startup_lpc15xx.cpp:465:6:void UsageFault_Handler()	4	static
+cr_startup_lpc15xx.cpp:470:6:void SVC_Handler()	4	static
+cr_startup_lpc15xx.cpp:475:6:void DebugMon_Handler()	4	static
+cr_startup_lpc15xx.cpp:480:6:void PendSV_Handler()	4	static
+cr_startup_lpc15xx.cpp:485:6:void SysTick_Handler()	4	static
+cr_startup_lpc15xx.cpp:496:6:void IntDefaultHandler()	4	static

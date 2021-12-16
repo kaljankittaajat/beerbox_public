@@ -1,0 +1,11 @@
+MQTT_lpc1549.c:27:6:TimerCountdownMS	16	static
+MQTT_lpc1549.c:34:6:TimerCountdown	16	static
+MQTT_lpc1549.c:40:5:TimerLeftMS	32	static
+MQTT_lpc1549.c:47:6:TimerIsExpired	16	static
+MQTT_lpc1549.c:53:6:TimerInit	16	static
+MQTT_lpc1549.c:60:5:lpc1549_read	40	static
+MQTT_lpc1549.c:85:5:lpc1549_write	40	static
+MQTT_lpc1549.c:111:6:lpc1549_disconnect	16	static
+MQTT_lpc1549.c:117:6:NetworkInit	24	static
+MQTT_lpc1549.c:132:5:NetworkConnect	24	static
+MQTT_lpc1549.c:137:6:NetworkDisconnect	16	static

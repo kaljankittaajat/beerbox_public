@@ -1,0 +1,17 @@
+sysctl_15xx.h:185:20:Chip_SYSCTL_PeriphReset	16	static
+adc_15xx.h:237:20:Chip_ADC_SetDivider	24	static
+adc_15xx.c:47:6:Chip_ADC_SetIntBits	24	static
+adc_15xx.c:59:6:Chip_ADC_ClearIntBits	24	static
+adc_15xx.c:71:6:Chip_ADC_SetTHRSELBits	24	static
+adc_15xx.c:83:6:Chip_ADC_ClearTHRSELBits	24	static
+adc_15xx.c:99:6:Chip_ADC_Init	16	static
+adc_15xx.c:121:6:Chip_ADC_DeInit	16	static
+adc_15xx.c:138:6:Chip_ADC_SetClockRate	24	static
+adc_15xx.c:154:6:Chip_ADC_StartCalibration	16	static
+adc_15xx.c:172:6:Chip_ADC_SetSequencerBits	32	static
+adc_15xx.c:184:6:Chip_ADC_ClearSequencerBits	32	static
+adc_15xx.c:196:6:Chip_ADC_EnableInt	16	static
+adc_15xx.c:202:6:Chip_ADC_DisableInt	16	static
+adc_15xx.c:208:6:Chip_ADC_SetThresholdInt	24	static
+adc_15xx.c:220:6:Chip_ADC_SelectTH0Channels	16	static
+adc_15xx.c:226:6:Chip_ADC_SelectTH1Channels	16	static

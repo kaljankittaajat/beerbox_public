@@ -1,0 +1,3 @@
+retarget_uart.cpp:12:6:void retarget_init()	88	static
+retarget_uart.cpp:35:5:int _write(int, char*, int)	32	static
+retarget_uart.cpp:79:5:int _read(int, char*, int)	24	static

@@ -1,2 +1,2 @@
 #!/bin/bash
-mysql -u beerbox --password=beerbox < ../sql/init.sql
+mysql -u beerbox --password=beerbox < ../web/db/init.sql

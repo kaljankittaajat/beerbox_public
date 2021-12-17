@@ -3,7 +3,6 @@ USE beerbox;
 CREATE OR REPLACE TABLE devices (
 	id int not null auto_increment primary key,
 	name varchar(255),
-	mac int not null unique key,
 	weight_min int default 1000,
 	weight_max int default 45000,
 	temp_min dec(4,1) default 0,
